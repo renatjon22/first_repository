@@ -5,3 +5,4 @@ from the laptop not from git cloud dadadadad
 
 git gui
 git gui second
+cloud remove
