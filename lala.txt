@@ -1,4 +1,4 @@
-delete from the first line
+delete from the second line
 da privet from cloud
 
 second from laprtop
